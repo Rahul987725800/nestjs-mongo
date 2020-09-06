@@ -1,0 +1,5 @@
+// urls for sending requests
+// get request for getting products
+http://localhost:3000/products 
+// post request for creating product with data id, title, description :string, price :number
+http://localhost:3000/products 
